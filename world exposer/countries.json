@@ -1,0 +1,173 @@
+
+[
+  {
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland"
+    },
+    "cca3": "ISL",
+    "capital": [
+      "Reykjavík"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 393349,
+    "area": 103000,
+    "languages": {
+      "isl": "Icelandic"
+    },
+    "currencies": {
+      "ISK": {
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    },
+    "flags": {
+      "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Iceland.svg",
+      "png": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Iceland.png",
+      "alt": "A blue field with a red cross outlined in white."
+    }
+  },
+  {
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic"
+    },
+    "cca3": "PRT",
+    "capital": [
+      "Lisbon"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 10425292,
+    "area": 92090,
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "flags": {
+      "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Portugal.svg",
+      "png": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Portugal.png",
+      "alt": "A green and red vertical flag with the national coat of arms at the boundary."
+    }
+  },
+  {
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam"
+    },
+    "cca3": "VNM",
+    "capital": [
+      "Hanoi"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 100987686,
+    "area": 331212,
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "currencies": {
+      "VND": {
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    },
+    "flags": {
+      "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Vietnam.svg",
+      "png": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Vietnam.png",
+      "alt": "A red field with a large yellow five-pointed star in the center."
+    }
+  },
+  {
+    "name": {
+      "common": "Pakistan",
+      "official": "Islamic Republic of Pakistan"
+    },
+    "cca3": "PAK",
+    "capital": [
+      "Islamabad"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 251269164,
+    "area": 881912,
+    "languages": {
+      "urd": "Urdu",
+      "eng": "English"
+    },
+    "currencies": {
+      "PKR": {
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    },
+    "flags": {
+      "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Pakistan.svg",
+      "png": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Pakistan.png",
+      "alt": "A dark green field with a white vertical stripe, crescent, and five-pointed star."
+    }
+  },
+  {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria"
+    },
+    "cca3": "DZA",
+    "capital": [
+      "Algiers"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 46814308,
+    "area": 2381741,
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Amazigh"
+    },
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "دج"
+      }
+    },
+    "flags": {
+      "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Algeria.svg",
+      "png": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Algeria.png",
+      "alt": "Two vertical green and white halves with a red crescent and star in the center."
+    }
+  },
+  {
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay"
+    },
+    "cca3": "URY",
+    "capital": [
+      "Montevideo"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 3381774,
+    "area": 181034,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "UYU": {
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    },
+    "flags": {
+      "svg": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Uruguay.svg",
+      "png": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Uruguay.png",
+      "alt": "White and blue horizontal stripes with a golden Sun of May in the upper-left canton."
+    }
+  }
+]
